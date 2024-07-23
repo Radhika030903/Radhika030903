@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radhika030903&label=Profile%20views&color=0e75b6&style=flat" alt="radhika030903" /> </p>
 
-- 🌱 I’m currently learning **React, Advance DSA**
+- 🌱 I’m currently learning ** Advance DSA, data analysing tools**
 
 - 👯 I’m looking to collaborate on **Web Dev**
 
